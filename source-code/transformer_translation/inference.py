@@ -39,7 +39,7 @@ model.eval()
 # test_loss  = evaluate(model, dataset.test_loader, criterion, verbose=True)
 # print(f'| Test Loss: {test_loss:.3f} | Test PPL: {math.exp(test_loss):7.3f} |')
 
-for i in range(10):
+for i in range(50):
     translation = dataset.dataset['train'][i]
     source_raw = translation[source_lang]
     target_raw = translation[target_lang]
