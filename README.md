@@ -14,8 +14,7 @@ Learn LLM from scatch
 
 
 ## SourceCode
-[Transformer](./source-code/transformer-translation/transformer.py)
-
+[Transformer](./source-code/transformer_translation/transformer.py)
 
 ## Reference
 [Huggingface Bert](https://huggingface.co/docs/transformers/en/model_doc/bert)  
