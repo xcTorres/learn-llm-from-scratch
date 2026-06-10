@@ -3,4 +3,7 @@ saved
 result
 __pycache__
 dataset
-loss.txt
+loss.txt 
+
+pdf
+.DS_Store
